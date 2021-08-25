@@ -107,7 +107,6 @@ class FirstSignIn extends StatelessWidget {
                 padding: const EdgeInsets.only(
                   top: 30,
                   left: 57,
-                
                 ),
                 child: Row(
                   children: [
